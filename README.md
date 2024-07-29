@@ -6,7 +6,7 @@ My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My inter
 # 💻 Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)
 
-[![ Dev](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next&theme=dark)](https://skillicons.dev) 
+[![ Dev](https://skillicons.dev/icons?i=mongodb,express,nodejs,next&theme=dark)](https://skillicons.dev) 
 
 [![Other Stuff](https://skillicons.dev/icons?i=python,pytorch,java,cs,cpp&theme=dark)](https://skillicons.dev)
 
