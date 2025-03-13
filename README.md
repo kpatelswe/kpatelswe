@@ -8,7 +8,7 @@ My name is Kishan and I am a senior at Stephen Lewis Secondary School!  My inter
 
 [![ Dev](https://skillicons.dev/icons?i=mongodb,express,next,firebase&theme=dark)](https://skillicons.dev) 
 
-[![Other Stuff](https://skillicons.dev/icons?i=python,pytorch,java,cs,cpp&theme=dark)](https://skillicons.dev)
+[![Other Stuff](https://skillicons.dev/icons?i=python,java,cs,cpp&theme=dark)](https://skillicons.dev)
 
 # :handshake: Let's Connect
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kpatelswe/)
