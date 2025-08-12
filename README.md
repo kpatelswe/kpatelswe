@@ -3,7 +3,7 @@
 # :postbox: About Me
 I am a freshman at the University of Waterloo, majoring in Computer Science!  My interests include artificial intelligence (AI), software engineering, and finance. Currently, a lot of my repositories are private, if you have seen a project and want to know more, feel free to reach out!
 
-# 💻 Tech Stack
+# 💻 Technologies
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
 [![ Dev](https://skillicons.dev/icons?i=fastapi,flask,django,go&theme=dark)](https://skillicons.dev) 
