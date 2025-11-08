@@ -6,7 +6,7 @@ I am a freshman at the University of Waterloo, majoring in Computer Science!  My
 # 💻 Technologies
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
-[![ Dev](https://skillicons.dev/icons?i=fastapi,flask,go&theme=dark)](https://skillicons.dev) 
+[![ Dev](https://skillicons.dev/icons?i=fastapi,aws,ts&theme=dark)](https://skillicons.dev) 
 
 [![Other Stuff](https://skillicons.dev/icons?i=python,cs,cpp&theme=dark)](https://skillicons.dev)
 
