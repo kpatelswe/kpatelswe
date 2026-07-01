@@ -1,7 +1,7 @@
 ### Hi There! 👋 I'm Kishan Patel.
 -----
 # :postbox: About Me
-I am a freshman at the University of Waterloo, majoring in Computer Science!  My interests include prediction markets, software engineering, and infrastructure. I'm always looking to meet like-minded builders, so if you see something you like, don't hesitate to reach out!
+I study CS @ UWaterloo!  My interests include prediction markets, software engineering, and infrastructure. I'm always looking to meet like-minded builders, so if you see something you like, don't hesitate to reach out!
 # 💻 Technologies
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
