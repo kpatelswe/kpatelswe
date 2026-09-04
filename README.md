@@ -1,19 +1,19 @@
-### Hi There! 👋 I'm Kishan Patel.
------
-# :postbox: About Me
-I study CS @ UWaterloo!  My interests include prediction markets, software engineering, and infrastructure. I'm always looking to meet like-minded builders, so if you see something you like, don't hesitate to reach out!
-# 💻 Technologies
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+# Kishan Patel
 
-[![ Dev](https://skillicons.dev/icons?i=fastapi,aws,ts&theme=dark)](https://skillicons.dev) 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&pause=1500&color=8B949E&vCenter=true&width=460&height=24&lines=cs+%40+uwaterloo;making+things+faster+and+less+wasteful" alt="" />
 
-[![Other Stuff](https://skillicons.dev/icons?i=python,cs,cpp&theme=dark)](https://skillicons.dev)
+Hey, I'm Kishan and I study CS at the University of Waterloo. I like backend stuff, especially anything where you can make things faster or less wasteful. Also into philosophy when I'm not thinking about technical problems. Feel free to reach out if you want to talk about either!
 
-# :handshake: Let's Connect
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kpatelswe/)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:k.patel518007@gmail.com)
+<br/>
 
+#### Experience
 
+<img src="assets/nationgraph.png" width="18" height="18" align="top" alt="" />&nbsp; [NationGraph](https://www.nationgraph.com) &nbsp;·&nbsp; Software Engineer Intern
 
+<img src="assets/mysti.svg" width="18" height="18" align="top" alt="" />&nbsp; [Mysti Health](https://mysti.ai) &nbsp;·&nbsp; Software Developer Intern
 
+<br/>
 
+#### Connect
+
+<a href="https://www.linkedin.com/in/kpatelswe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:k.patel518007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
