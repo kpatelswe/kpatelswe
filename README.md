@@ -10,9 +10,9 @@ Hey, I'm Kishan and I study CS at the University of Waterloo. I like backend stu
 
 #### Experience
 
-<img src="assets/nationgraph.png" width="18" height="18" alt="" />&nbsp;&nbsp;[NationGraph](https://www.nationgraph.com) · Software Engineer Intern
+<img src="assets/nationgraph.png" width="18" height="18" alt="" />&nbsp;&nbsp;NationGraph · Software Engineer Intern
 
-<img src="assets/mysti.svg" width="18" height="18" alt="" />&nbsp;&nbsp;[Mysti Health](https://mysti.ai) · Software Developer Intern
+<img src="assets/mysti.svg" width="18" height="18" alt="" />&nbsp;&nbsp;Mysti Health · Software Developer Intern
 
 <br />
 
