@@ -4,16 +4,6 @@
 
 Hey, I'm Kishan and I study CS at the University of Waterloo. I like backend stuff, especially anything where you can make things faster or less wasteful. Outside of tech, I'm a fan of philosophy. Feel free to reach out if you want to talk about either!
 
-<br />
-
-#### Experience
-
-<img src="assets/nationgraph.png" width="18" height="18" alt="" />&nbsp;&nbsp;NationGraph · Software Engineer Intern
-
-<img src="assets/mysti.svg" width="18" height="18" alt="" />&nbsp;&nbsp;Mysti Health · Software Developer Intern
-
-<br />
-
 #### Connect
 
 <a href="https://www.linkedin.com/in/kpatelswe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
