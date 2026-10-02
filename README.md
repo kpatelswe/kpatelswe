@@ -1,10 +1,6 @@
-<img src="assets/banner.webp" width="100%" alt="" />
-
-# Kishan Patel
+<img src="assets/banner.webp" width="100%" alt="Kishan Patel — cs @ uwaterloo, making things faster and less wasteful" />
 
 [Personal Site](https://kishanpatel.ca)
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&pause=1500&color=8B949E&vCenter=true&width=460&height=24&lines=cs+%40+uwaterloo;making+things+faster+and+less+wasteful" alt="" />
 
 Hey, I'm Kishan and I study CS at the University of Waterloo. I like backend stuff, especially anything where you can make things faster or less wasteful. Outside of tech, I'm a fan of philosophy. Feel free to reach out if you want to talk about either!
 
