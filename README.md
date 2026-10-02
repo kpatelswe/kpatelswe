@@ -1,3 +1,5 @@
+<img src="assets/banner.webp" width="100%" alt="" />
+
 # Kishan Patel
 
 [Personal Site](https://kishanpatel.ca)
