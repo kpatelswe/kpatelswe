@@ -1,4 +1,4 @@
-<img src="assets/banner.webp" width="100%" alt="Kishan Patel — cs @ uwaterloo, making things faster and less wasteful" />
+<img src="assets/header.webp" width="100%" alt="Kishan Patel — cs @ uwaterloo, making things faster and less wasteful" />
 
 [Personal Site](https://kishanpatel.ca)
 
